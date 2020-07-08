@@ -1,0 +1,164 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+.first-part{
+    background-color: #F0FFF0;
+}
+
+#navbarNav{
+    background-color: #F0FFF0;
+}
+
+#navbar{
+    background-color: #F0FFF0;
+}
+
+#start{
+    margin-bottom: 90px;
+    background-color: #F0FFF0;  
+}
+
+.sign-in{
+    background-color:#21B573;
+    border-radius: 20px;
+    padding: 4px 8px;
+    margin-top: 6px;    
+}
+
+.highlight{
+    color: #21B573;
+}
+
+.introduce h6{
+    color: #FD511A;
+}
+
+.get-started-button{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 10px 37px;
+    cursor: pointer;
+}
+
+.activity img{
+    width: 40%;
+    height: 40%;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.card-body h5{
+    text-align: center;
+}
+
+.card-body p{
+    text-align: center;
+}
+
+.card{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+
+#card-highlight{
+    border: none;
+    box-shadow: 2px 2px 5px 4px lightgrey;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.success{
+    margin-bottom: 100px;
+}
+
+.buy-course-button{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 10px 37px;
+    cursor: pointer;
+}
+
+.online-course h5{
+    text-align: start;
+}
+
+.online-course p{
+    text-align: start;
+}
+
+.courses-header{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.online-image{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.card-footer img{
+    width: 7%;
+    height: 7%;
+}
+
+.course{
+    margin-bottom: 100px;
+}
+
+.testimonial{
+    text-align: center;
+}
+
+.col-md-4 img{
+    width: 120px;
+    height: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-left: 80px;
+}
+
+.last-part{
+    height: 380px;
+    margin-top: 100px;
+    background-color: #282531;
+    color: white;
+}
+
+#section-part{
+    margin-top: 40px;
+}
+
+.last-section{
+    text-align:center;
+    margin-bottom: 70px;
+}
+
+.contact{
+    margin-left: 240px;
+}
+
+.send-button{
+    background-color: #13e486;
+    color: rgb(37, 31, 31);
+    border: none;
+    border-radius: 10px;
+    padding: 5px 25px;
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    margin-top: 70px;
+    color: #CDCDCD;
+}
